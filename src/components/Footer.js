@@ -11,18 +11,10 @@ const Footer = () => {
                         <i className="fab fa-instagram"></i>
                     </a>
                 </li>
+                
+   
                 <li className="social-list__item">
-                    <a className="social-list__link" href="http://dribbble.com">
-                        <i className="fab fa-dribbble"></i>
-                    </a>
-                </li>
-                <li className="social-list__item">
-                    <a className="social-list__link" href="https://twitter.com">
-                        <i className="fab fa-twitter"></i>
-                    </a>
-                </li>
-                <li className="social-list__item">
-                    <a className="social-list__link" href="https://github.com/souban">
+                    <a className="social-list__link" href="https://github.com/soubanmuhammad">
                         <i className="fab fa-github"></i>
                     </a>
                 </li>
